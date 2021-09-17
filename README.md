@@ -1,1 +1,2 @@
 Battery Percentages Enabler
+Bashenable_battery_percentages.sh 
